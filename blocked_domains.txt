@@ -71,7 +71,6 @@
 ||api.bugsnag.com^
 ||api.luckyorange.com^
 ||api.mouseflow.com^
-||api.olx.co.id^
 ||app.bugsnag.com^
 ||app.getsentry.com^
 ||app-measurement.com^
@@ -329,3 +328,4 @@
 ||bdapi-in-ads.realmemobile.com^
 ||bdapi-ads.realmemobile.com^
 ||adm.hotjar.com^
+
